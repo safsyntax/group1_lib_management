@@ -1,0 +1,15 @@
+C:\Users\bharg\Desktop\ADA\Git\group1_lib_management\group1_final_program\bin\Debug\net8.0\group1_final_program.exe
+C:\Users\bharg\Desktop\ADA\Git\group1_lib_management\group1_final_program\bin\Debug\net8.0\group1_final_program.deps.json
+C:\Users\bharg\Desktop\ADA\Git\group1_lib_management\group1_final_program\bin\Debug\net8.0\group1_final_program.runtimeconfig.json
+C:\Users\bharg\Desktop\ADA\Git\group1_lib_management\group1_final_program\bin\Debug\net8.0\group1_final_program.dll
+C:\Users\bharg\Desktop\ADA\Git\group1_lib_management\group1_final_program\bin\Debug\net8.0\group1_final_program.pdb
+C:\Users\bharg\Desktop\ADA\Git\group1_lib_management\group1_final_program\obj\Debug\net8.0\group1_final_program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bharg\Desktop\ADA\Git\group1_lib_management\group1_final_program\obj\Debug\net8.0\group1_final_program.AssemblyInfoInputs.cache
+C:\Users\bharg\Desktop\ADA\Git\group1_lib_management\group1_final_program\obj\Debug\net8.0\group1_final_program.AssemblyInfo.cs
+C:\Users\bharg\Desktop\ADA\Git\group1_lib_management\group1_final_program\obj\Debug\net8.0\group1_final_program.csproj.CoreCompileInputs.cache
+C:\Users\bharg\Desktop\ADA\Git\group1_lib_management\group1_final_program\obj\Debug\net8.0\group1_final_program.sourcelink.json
+C:\Users\bharg\Desktop\ADA\Git\group1_lib_management\group1_final_program\obj\Debug\net8.0\group1_final_program.dll
+C:\Users\bharg\Desktop\ADA\Git\group1_lib_management\group1_final_program\obj\Debug\net8.0\refint\group1_final_program.dll
+C:\Users\bharg\Desktop\ADA\Git\group1_lib_management\group1_final_program\obj\Debug\net8.0\group1_final_program.pdb
+C:\Users\bharg\Desktop\ADA\Git\group1_lib_management\group1_final_program\obj\Debug\net8.0\group1_final_program.genruntimeconfig.cache
+C:\Users\bharg\Desktop\ADA\Git\group1_lib_management\group1_final_program\obj\Debug\net8.0\ref\group1_final_program.dll
