@@ -1,7 +1,3 @@
-﻿// See https://aka.ms/new-console-template for more information
-
-using System;
-
 public class Staff : Person
 {
     public string Position;
