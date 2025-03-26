@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "JCvcPnuF0RQ=",
+  "dgSpecHash": "58crdqsYju8=",
   "success": true,
-  "projectFilePath": "/Users/Owner/Documents/Repositories/group1_lib_management/Staff/Staff.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/sudhamshu/Desktop/USFLMS/group1_lib_management/Staff/Staff.csproj",
+  "expectedPackageFiles": [
+    "/Users/sudhamshu/.nuget/packages/microsoft.netcore.app.ref/8.0.13/microsoft.netcore.app.ref.8.0.13.nupkg.sha512",
+    "/Users/sudhamshu/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.13/microsoft.aspnetcore.app.ref.8.0.13.nupkg.sha512",
+    "/Users/sudhamshu/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.13/microsoft.netcore.app.host.osx-arm64.8.0.13.nupkg.sha512"
+  ],
   "logs": []
 }
